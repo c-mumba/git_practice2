@@ -1,1 +1,2 @@
+EDITED VERSION OF GIT PRACTICE
 This is my first voluntary practice concerning git
