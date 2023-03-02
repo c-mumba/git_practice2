@@ -1,3 +1,3 @@
 EDITED VERSION OF GIT PRACTICE
 This is my first voluntary practice concerning git
-What do we have here?!
+Well, well , well, What do we have here?!
